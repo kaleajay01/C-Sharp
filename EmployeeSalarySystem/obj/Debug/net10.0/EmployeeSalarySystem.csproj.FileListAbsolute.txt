@@ -1,0 +1,15 @@
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\EmployeeSalarySystem\bin\Debug\net10.0\EmployeeSalarySystem.exe
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\EmployeeSalarySystem\bin\Debug\net10.0\EmployeeSalarySystem.deps.json
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\EmployeeSalarySystem\bin\Debug\net10.0\EmployeeSalarySystem.runtimeconfig.json
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\EmployeeSalarySystem\bin\Debug\net10.0\EmployeeSalarySystem.dll
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\EmployeeSalarySystem\bin\Debug\net10.0\EmployeeSalarySystem.pdb
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\EmployeeSalarySystem\obj\Debug\net10.0\EmployeeSalarySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\EmployeeSalarySystem\obj\Debug\net10.0\EmployeeSalarySystem.AssemblyInfoInputs.cache
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\EmployeeSalarySystem\obj\Debug\net10.0\EmployeeSalarySystem.AssemblyInfo.cs
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\EmployeeSalarySystem\obj\Debug\net10.0\EmployeeSalarySystem.csproj.CoreCompileInputs.cache
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\EmployeeSalarySystem\obj\Debug\net10.0\EmployeeSalarySystem.sourcelink.json
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\EmployeeSalarySystem\obj\Debug\net10.0\EmployeeSalarySystem.dll
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\EmployeeSalarySystem\obj\Debug\net10.0\refint\EmployeeSalarySystem.dll
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\EmployeeSalarySystem\obj\Debug\net10.0\EmployeeSalarySystem.pdb
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\EmployeeSalarySystem\obj\Debug\net10.0\EmployeeSalarySystem.genruntimeconfig.cache
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\EmployeeSalarySystem\obj\Debug\net10.0\ref\EmployeeSalarySystem.dll
