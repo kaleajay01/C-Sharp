@@ -1,16 +1,14 @@
 using System;
 namespace EmployeeSalarySystem;
-
-
 public class FullTimeEmployee : Employee
 {
-
-    public override void CalculateSalary()
+    public FullTimeEmployee(string name, int employeeId, decimal salary) : base(name, employeeId, salary)
     {
-        decimal basicSalary = 15000;
-        
-        decimal bouns = (basicSalary * 5) / 100;
-        decimal totalSalary = basicSalary + bouns;
-        Console.WriteLine(totalSalary);
+    }
+    public override void CalculateSalary()
+    { 
+        decimal bouns = (Salary * 5) / 100;
+        decimal totalSalary = Salary + bouns;
+        Console.WriteLine("Employee Salary:"+totalSalary);
     }
 }

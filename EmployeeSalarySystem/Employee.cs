@@ -4,7 +4,6 @@ public abstract class Employee
     public string Name {get;set;}
     public int EmployeeId {get;set;}
     protected decimal Salary {get;set;}
-
     public Employee()
     {
         EmployeeId = 1;
@@ -18,11 +17,9 @@ public abstract class Employee
         this.Salary = salary;
     }
     public abstract void CalculateSalary();
-
     public void DisplayEmployeeDetails()
     {
-        Console.WriteLine("Id:"+EmployeeId);
-        Console.WriteLine("Name:"+Name);
-        Console.WriteLine("Age:"+Salary);
+        Console.WriteLine("Employee Id:"+EmployeeId);
+        Console.WriteLine("Employee Name:"+Name);
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\Delegate\\Delegate.csproj": {}
+    "D:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\OOPs\\OOPs.csproj": {}
   },
   "projects": {
-    "D:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\Delegate\\Delegate.csproj": {
+    "D:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\OOPs\\OOPs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\Delegate\\Delegate.csproj",
-        "projectName": "Delegate",
-        "projectPath": "D:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\Delegate\\Delegate.csproj",
+        "projectUniqueName": "D:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\OOPs\\OOPs.csproj",
+        "projectName": "OOPs",
+        "projectPath": "D:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\OOPs\\OOPs.csproj",
         "packagesPath": "C:\\Users\\ajayk\\.nuget\\packages\\",
-        "outputPath": "D:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\Delegate\\obj\\",
+        "outputPath": "D:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\OOPs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajayk\\AppData\\Roaming\\NuGet\\NuGet.Config"

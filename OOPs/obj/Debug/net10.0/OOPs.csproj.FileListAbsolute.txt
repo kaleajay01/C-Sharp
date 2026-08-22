@@ -1,0 +1,15 @@
+D:\ClassTFL\VS Code\GIT Repositories\c-sharp\oops\obj\Debug\net10.0\OOPs.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClassTFL\VS Code\GIT Repositories\c-sharp\oops\obj\Debug\net10.0\OOPs.AssemblyInfoInputs.cache
+D:\ClassTFL\VS Code\GIT Repositories\c-sharp\oops\obj\Debug\net10.0\OOPs.AssemblyInfo.cs
+D:\ClassTFL\VS Code\GIT Repositories\c-sharp\oops\obj\Debug\net10.0\OOPs.csproj.CoreCompileInputs.cache
+D:\ClassTFL\VS Code\GIT Repositories\c-sharp\oops\obj\Debug\net10.0\OOPs.sourcelink.json
+D:\ClassTFL\VS Code\GIT Repositories\c-sharp\oops\bin\Debug\net10.0\OOPs.exe
+D:\ClassTFL\VS Code\GIT Repositories\c-sharp\oops\bin\Debug\net10.0\OOPs.deps.json
+D:\ClassTFL\VS Code\GIT Repositories\c-sharp\oops\bin\Debug\net10.0\OOPs.runtimeconfig.json
+D:\ClassTFL\VS Code\GIT Repositories\c-sharp\oops\bin\Debug\net10.0\OOPs.dll
+D:\ClassTFL\VS Code\GIT Repositories\c-sharp\oops\bin\Debug\net10.0\OOPs.pdb
+D:\ClassTFL\VS Code\GIT Repositories\c-sharp\oops\obj\Debug\net10.0\OOPs.dll
+D:\ClassTFL\VS Code\GIT Repositories\c-sharp\oops\obj\Debug\net10.0\refint\OOPs.dll
+D:\ClassTFL\VS Code\GIT Repositories\c-sharp\oops\obj\Debug\net10.0\OOPs.pdb
+D:\ClassTFL\VS Code\GIT Repositories\c-sharp\oops\obj\Debug\net10.0\OOPs.genruntimeconfig.cache
+D:\ClassTFL\VS Code\GIT Repositories\c-sharp\oops\obj\Debug\net10.0\ref\OOPs.dll
