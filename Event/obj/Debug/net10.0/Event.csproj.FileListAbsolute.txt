@@ -1,0 +1,15 @@
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Event\bin\Debug\net10.0\Event.exe
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Event\bin\Debug\net10.0\Event.deps.json
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Event\bin\Debug\net10.0\Event.runtimeconfig.json
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Event\bin\Debug\net10.0\Event.dll
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Event\bin\Debug\net10.0\Event.pdb
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Event\obj\Debug\net10.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Event\obj\Debug\net10.0\Event.AssemblyInfoInputs.cache
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Event\obj\Debug\net10.0\Event.AssemblyInfo.cs
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Event\obj\Debug\net10.0\Event.csproj.CoreCompileInputs.cache
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Event\obj\Debug\net10.0\Event.sourcelink.json
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Event\obj\Debug\net10.0\Event.dll
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Event\obj\Debug\net10.0\refint\Event.dll
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Event\obj\Debug\net10.0\Event.pdb
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Event\obj\Debug\net10.0\Event.genruntimeconfig.cache
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Event\obj\Debug\net10.0\ref\Event.dll

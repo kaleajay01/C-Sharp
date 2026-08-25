@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\Event\\Event.csproj": {}
+    "D:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\Event\\Event.csproj": {}
   },
   "projects": {
-    "d:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\Event\\Event.csproj": {
+    "D:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\Event\\Event.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\Event\\Event.csproj",
+        "projectUniqueName": "D:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\Event\\Event.csproj",
         "projectName": "Event",
-        "projectPath": "d:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\Event\\Event.csproj",
+        "projectPath": "D:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\Event\\Event.csproj",
         "packagesPath": "C:\\Users\\ajayk\\.nuget\\packages\\",
-        "outputPath": "d:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\Event\\obj\\",
+        "outputPath": "D:\\ClassTFL\\VS Code\\GIT Repositories\\C-Sharp\\Event\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajayk\\AppData\\Roaming\\NuGet\\NuGet.Config"
