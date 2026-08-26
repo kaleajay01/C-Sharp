@@ -23,6 +23,7 @@ class Program
         doorBell.Ring += OpenDoor;
         // 7. Press the doorbell
         doorBell.PressButton();
+
     }
     // 8. This method runs when the event happens
     static void OpenDoor()
