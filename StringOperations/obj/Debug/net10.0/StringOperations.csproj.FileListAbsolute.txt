@@ -1,0 +1,15 @@
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\StringOperations\bin\Debug\net10.0\StringOperations.exe
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\StringOperations\bin\Debug\net10.0\StringOperations.deps.json
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\StringOperations\bin\Debug\net10.0\StringOperations.runtimeconfig.json
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\StringOperations\bin\Debug\net10.0\StringOperations.dll
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\StringOperations\bin\Debug\net10.0\StringOperations.pdb
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\StringOperations\obj\Debug\net10.0\StringOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\StringOperations\obj\Debug\net10.0\StringOperations.AssemblyInfoInputs.cache
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\StringOperations\obj\Debug\net10.0\StringOperations.AssemblyInfo.cs
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\StringOperations\obj\Debug\net10.0\StringOperations.csproj.CoreCompileInputs.cache
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\StringOperations\obj\Debug\net10.0\StringOperations.sourcelink.json
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\StringOperations\obj\Debug\net10.0\StringOperations.dll
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\StringOperations\obj\Debug\net10.0\refint\StringOperations.dll
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\StringOperations\obj\Debug\net10.0\StringOperations.pdb
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\StringOperations\obj\Debug\net10.0\StringOperations.genruntimeconfig.cache
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\StringOperations\obj\Debug\net10.0\ref\StringOperations.dll
