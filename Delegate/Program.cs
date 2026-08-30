@@ -1,37 +1,29 @@
 ﻿using System;
-using System.Net;
 
 class Program
 {
+    // Create delegate
+    delegate void MyDelegate();
 
-    //delegate declaration
-    public delegate int Calculator(int a, int b);
-
-
-    //1st method
-    static int Add(int a, int b)
+    // First method
+    static void Hello()
     {
-        return a + b;
-    }
-    
-    //2nd method
-    static int Multiply(int a, int b)
-    {
-        return a * b;
+        Console.WriteLine("Hello");
     }
 
-    static void Calculate(int x, int y, Calculator operation)
+    // Second method
+    static void Welcome()
     {
-        int result = operation(x, y);
-        Console.WriteLine($"Result: {result}");
+        Console.WriteLine("Welcome");
     }
 
     static void Main()
     {
-        Calculator calc = Add;
-        Console.WriteLine(calc(10, 5));
+        // Create delegate and add methods
+        MyDelegate d = Hello;
+        d += Welcome;
 
-        Calculate(10, 5, Add);
-        Calculate(10, 5, Multiply);
+        // Call delegate
+        d();
     }
 }
