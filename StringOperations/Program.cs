@@ -37,11 +37,8 @@ public class String
 
         Console.WriteLine("Equals:"+Name.Equals(Name1));
 
-
         char[] arr = mi.ToCharArray();
         Array.Reverse(arr);
         Console.WriteLine("Reverse:"+new string(arr));
-
-        
     }
 }
