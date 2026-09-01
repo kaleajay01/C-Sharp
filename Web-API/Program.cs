@@ -1,35 +1,56 @@
+using WebAPI.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddOpenApi();
-
 var app = builder.Build();
-if (app.Environment.IsDevelopment())
-{
-    app.MapOpenApi();
-}
 
-app.UseHttpsRedirection();  
-var summaries = new[]
+var products = new List<Product>
 {
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+    new Product
+    {
+        Id = 1,
+        Name = "Laptop",
+        Price = 75000
+    },
+    new Product
+    {
+        Id = 2,
+        Name = "Mouse",
+        Price = 1500
+    },
+    new Product
+    {
+        Id = 3,
+        Name = "Keyboard",
+        Price = 3000
+    }
 };
-app.MapGet("/weatherforecast", () =>
+
+app.MapGet("/", () =>
 {
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast");
+    return "My Minimal API is running!";
+});
+
+app.MapGet("/products", () =>
+{
+    return Results.Ok(products);
+});
+
+app.MapGet("/products/{id}",(int id)=>
+{
+   var product = products.FirstOrDefault(p=>p.Id==id);
+   if(product == null)
+    {
+        return Results.NotFound("Product not found");
+    }
+    return Results.Ok(product);
+});
+
+app.MapPost("/products",(Product product)=>
+{
+   product.Id = product.Count + 1 ;
+   products.Add(product);
+   return Results.Ok(product);
+});
 
 app.Run();
-
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}
