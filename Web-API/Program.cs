@@ -48,9 +48,33 @@ app.MapGet("/products/{id}",(int id)=>
 
 app.MapPost("/products",(Product product)=>
 {
-   product.Id = product.Count + 1 ;
+   product.Id = products.Count + 1 ;
    products.Add(product);
    return Results.Ok(product);
+});
+
+app.MapPut("/products/{id}",(int id, Product product)=>
+{
+   var existingProduct = products.FirstOrDefault(p => p.Id == id);
+   if(existingProduct == null)
+    {
+        return Results.NotFound();
+    }
+    existingProduct.Name = product.Name;
+    existingProduct.Price = product.Price;
+
+    return Results.Ok(existingProduct);
+});
+
+app.MapDelete("/products/{id}",(int id)=>
+{
+    var removeproduct = products.FirstOrDefault(p=>p.Id==id);
+    if(removeproduct == null)
+    {
+        return Results.NotFound();
+    }
+    products.Remove(removeproduct);
+    return Results.Ok();
 });
 
 app.Run();
