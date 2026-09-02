@@ -32,3 +32,8 @@ D:\ClassTFL\VS Code\GIT Repositories\c-sharp\web-api\obj\Debug\net10.0\refint\We
 D:\ClassTFL\VS Code\GIT Repositories\c-sharp\web-api\obj\Debug\net10.0\Web-API.pdb
 D:\ClassTFL\VS Code\GIT Repositories\c-sharp\web-api\obj\Debug\net10.0\Web-API.genruntimeconfig.cache
 D:\ClassTFL\VS Code\GIT Repositories\c-sharp\web-api\obj\Debug\net10.0\ref\Web-API.dll
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Web-API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Web-API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Web-API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Web-API\bin\Debug\net10.0\MySqlConnector.dll
+D:\ClassTFL\VS Code\GIT Repositories\C-Sharp\Web-API\bin\Debug\net10.0\Pomelo.EntityFrameworkCore.MySql.dll
